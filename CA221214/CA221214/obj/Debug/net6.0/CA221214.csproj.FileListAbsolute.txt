@@ -1,0 +1,15 @@
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\bin\Debug\net6.0\CA221214.exe
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\bin\Debug\net6.0\CA221214.deps.json
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\bin\Debug\net6.0\CA221214.runtimeconfig.json
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\bin\Debug\net6.0\CA221214.dll
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\bin\Debug\net6.0\CA221214.pdb
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.csproj.AssemblyReference.cache
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.AssemblyInfoInputs.cache
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.AssemblyInfo.cs
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.csproj.CoreCompileInputs.cache
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.dll
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\refint\CA221214.dll
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.pdb
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\CA221214.genruntimeconfig.cache
+C:\Users\lakatos.balazs\source\repos\CA221214\CA221214\obj\Debug\net6.0\ref\CA221214.dll
